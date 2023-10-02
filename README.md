@@ -1,0 +1,2 @@
+# cloudCurious
+MIT; simple repo
